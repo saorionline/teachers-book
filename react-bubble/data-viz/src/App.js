@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import { HashRouter, Routes, Route } from 'react-router-dom';
@@ -11,7 +10,6 @@ function App() {
   return (
     <>
       <HashRouter>
-        <Sitemap />
         <Routes>
           <Route path="/" element={<Classroom/>}/>
           

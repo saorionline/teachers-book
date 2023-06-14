@@ -7,7 +7,6 @@ import * as Icon from 'react-feather';
 function Classroom() {
     return (
         <>
-        <h1>Main Classroom</h1>
         <div className="auth-main-content auth-bg-image">
         <div className="d-table">
                     <div className="d-tablecell">
