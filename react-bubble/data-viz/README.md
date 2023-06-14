@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+npm install react-dom
+npm install react-router-dom
+npm install react
+npm install node-sass
+npm install react-feather
+npm i react-bootstrap 
+npm i bootstrap
+
 ### `npm start`
 
 Runs the app in the development mode.\
