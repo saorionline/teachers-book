@@ -1,5 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import './assets/css/style.css';
+import './assets/css/responsive.css';
 
 function Sitemap() {
     return (
